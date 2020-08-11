@@ -1,0 +1,163 @@
+body
+   {
+	margin:0;
+	}
+
+h3
+ {
+  margin: 0px;
+  padding:  40px 0px;
+  font-size: 35px
+  }
+
+h1
+ {
+    margin: 0;
+	text-align: center;
+	padding: 100px 0 50px;
+	font-size: 45px;
+	font-family: 'Merienda';
+   }
+
+span
+ {
+  font-size: 30px;
+ }
+
+h4
+ {
+  color: grey;
+ }
+
+p
+ {
+  letter-spacing: 2px;
+  word-spacing: 5px;
+  margin: 0;
+ }
+            /* HEADER */
+.header
+   {
+	color:#FFF;
+	font-family: Engravers MT;
+	width:100%;
+    background-color: #2b2f36;
+	}
+
+.nav
+  {
+  float: right;
+  }
+
+a
+  {
+  text-decoration: none;
+  color: grey;
+  }
+
+.nav li, .category li
+ {
+  display: inline-block;
+  margin: 20px 10px;
+  }
+
+ul
+ {
+  margin: 0;
+ }
+
+                  /* BLOG */
+.content
+ {
+  background-color: white;
+  text-align: center;
+  padding-top: 100px;
+  padding-bottom: 50px;
+  background-image: linear-gradient( 109.6deg,  rgba(204,228,247,1) 11.2%, rgba(237,246,250,1) 100.2% );
+  }
+
+.category
+ {
+  text-align: center;
+  font-size: 25px;
+  }
+
+ul:hover
+ {
+  background-color: black;
+  color:green;
+  }
+
+ a:hover
+ {
+  background-color: white;
+  color:black;
+ }
+
+
+
+
+
+
+          /* FOOTER */
+footer
+ {
+  background-color: #2b2f36;
+  color: #FFF;
+  text-align: center;
+  padding-bottom: 20px;
+  padding-top: 20px;
+ }
+
+
+
+        /* FORMS */
+
+
+
+.formsTable
+ {
+  margin: 0 auto;
+  background-color:rgba(128,128,128,0.4);
+  box-shadow: 0px 0px 3px 5px rgb(61, 19, 143);
+  border-radius: 10px;
+  border: 1px solid black;
+  width: 400px;
+ }
+
+.formsTable td
+ {
+  padding: 5px;
+  border-bottom: 1px solid black;
+  border-right: 1px solid black;
+ }
+
+.formsTable input
+ {
+  width: 100%;
+  border-radius: 5px;
+ }
+
+.login-Signup
+ {
+  background-color: rgb(227, 241, 249);
+  width: 100%;
+ }
+
+.options
+ {
+  margin: 0 auto;
+  margin-bottom: 50px;
+  letter-spacing: 2px;
+  word-spacing: 8px;
+ }
+
+.options td
+ {
+  padding-left: 10px;
+  text-align: right;
+  }
+
+
+
+			  
